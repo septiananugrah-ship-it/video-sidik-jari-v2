@@ -1,0 +1,208 @@
+[00:00] Dua plastik kembar
+
+Coba perhatikan dua lembar plastik ini.
+Sama-sama tipis, sama-sama ringan, sama-sama bening.
+Tetapi yang satu adalah polietilena, dan yang lain adalah PET.
+Mata kita tidak bisa membedakannya.
+Namun ada satu cara yang hampir tidak pernah keliru:
+mendengarkan bagaimana molekulnya bergetar.
+Karena setiap molekul punya irama sendiri,
+semacam sidik jari yang ditulis oleh hukum mekanika kuantum.
+
+[00:49] Peta video
+
+Video ini membahas kimia kuantum gerak vibrasi dalam tiga bagian.
+Pertama, prinsip dan teori dasarnya: dari model pegas hingga persamaan Schrödinger.
+Kedua, implementasinya dalam bidang kimia: bagaimana getaran molekul dibaca melalui spektroskopi inframerah.
+Dan ketiga, penerapannya dalam dunia industri.
+
+[01:19] Bab 01 — Tidak ada yang benar-benar diam
+
+Mari kita perbesar plastik itu.
+Semakin dalam, kita melihat rantai-rantai panjang polimer yang saling melilit.
+Lebih dalam lagi, setiap rantai tersusun dari atom karbon dan hidrogen yang saling terikat.
+Dan di sinilah kejutan pertama:
+atom-atom ini tidak pernah benar-benar diam.
+Ikatan di antara mereka terus memanjang dan memendek, menekuk dan meregang,
+seperti orkestra kecil yang tidak pernah berhenti bermain.
+
+[02:03] Bab 02 — Ikatan kimia sebagai pegas
+
+Untuk memahami getaran ini, kita mulai dari yang paling sederhana: molekul dengan dua atom.
+Kedua atom berada pada jarak yang paling nyaman, yang disebut panjang ikatan setimbang.
+Jika ditarik sedikit, ikatan menarik keduanya kembali.
+Jika didorong terlalu dekat, ikatan mendorongnya menjauh.
+Perilaku ini mirip sekali dengan pegas.
+Semakin jauh simpangannya, semakin besar gaya pemulihnya.
+Inilah hukum Hooke: F sama dengan minus k kali x.
+Tentu, ikatan kimia bukan pegas sungguhan.
+Ia adalah awan elektron yang dibagi bersama oleh dua inti atom.
+Tetapi sebagai model awal, analogi pegas ini sangat berguna.
+
+[03:05] Bab 03 — Kekakuan dan massa
+
+Sekarang pertanyaannya: seberapa cepat pegas ini bergetar?
+Jawabannya bergantung pada dua hal.
+Yang pertama adalah kekakuan ikatan, dilambangkan dengan k.
+Ikatan rangkap tiga lebih kaku daripada ikatan rangkap dua, dan ikatan rangkap dua lebih kaku daripada ikatan tunggal.
+Ikatan yang lebih kaku bergetar lebih cepat.
+Yang kedua adalah massa.
+Atom yang berat bergerak lebih lamban, seperti beban besar di ujung pegas.
+Untuk dua atom, kita memakai massa tereduksi, mu: hasil kali kedua massa dibagi jumlahnya.
+Hasilnya adalah satu rumus sederhana: frekuensi sebanding dengan akar dari k dibagi mu.
+Buktinya bisa kita lihat pada hidrogen klorida.
+Jika hidrogen diganti deuterium, isotop yang dua kali lebih berat,
+jenis ikatannya tetap sama, tetapi getarannya melambat, kira-kira menjadi tujuh puluh persen frekuensi semula.
+Rumus yang sama juga bisa dibalik.
+Dari pita hidrogen klorida di dua ribu delapan ratus delapan puluh enam sentimeter pangkat minus satu, kita dapat menghitung konstanta gaya ikatannya: kira-kira empat ratus delapan puluh newton per meter.
+Inilah salah satu kekuatan spektroskopi vibrasi: ia mengukur seberapa kuat sebuah ikatan kimia.
+
+[04:56] Bab 04 — Lanskap energi
+
+Mari kita gambarkan getaran ini sebagai sebuah lanskap energi.
+Sumbu mendatar adalah jarak antaratom, dan sumbu tegak adalah energi potensial.
+Di dekat titik setimbang, bentuknya seperti mangkuk parabola: energi sama dengan setengah k x kuadrat.
+Model ini disebut osilator harmonik.
+Tetapi molekul nyata sedikit berbeda.
+Jika atom didorong terlalu dekat, energinya melonjak tajam.
+Jika ditarik terlalu jauh, kurvanya melandai, sampai akhirnya ikatan putus.
+Kurva yang lebih realistis ini disebut potensial Morse.
+Namun untuk getaran kecil di dasar mangkuk, model harmonik tetap pendekatan yang sangat baik.
+
+[05:56] Bab 05 — Lompatan kuantum
+
+Di sinilah fisika klasik dan fisika kuantum berpisah jalan.
+Menurut fisika klasik, getaran boleh memiliki energi berapa pun,
+seperti bola yang meluncur di tanjakan yang mulus.
+Tetapi ketika persamaan Schrödinger diterapkan pada molekul, hasilnya mengejutkan.
+Energi getaran hanya boleh berada pada tingkat-tingkat tertentu, seperti anak tangga.
+Setiap anak tangga diberi nomor kuantum v: nol, satu, dua, tiga, dan seterusnya.
+Pada osilator harmonik, jarak antaranak tangga selalu sama, yaitu h dikali nu.
+Energinya ditulis sebagai E sama dengan v ditambah setengah, dikali h nu.
+Inilah yang disebut kuantisasi energi.
+
+[06:59] Bab 06 — Awan kemungkinan
+
+Lalu, di mana posisi atom pada setiap tingkat?
+Mekanika kuantum tidak memberi lintasan yang pasti.
+Ia memberi fungsi gelombang, psi.
+Kuadratnya menunjukkan peluang menemukan atom pada simpangan tertentu.
+Pada tingkat nol, peluang terbesar ada di tengah.
+Pada tingkat yang lebih tinggi, muncul simpul, titik-titik tempat peluangnya nol.
+Semakin tinggi tingkatnya, semakin banyak simpulnya, dan sebarannya semakin lebar.
+Jadi molekul tidak sekadar berayun di satu lintasan;
+ia hadir sebagai awan kemungkinan.
+
+[07:47] Bab 07 — Energi titik nol
+
+Sekarang perhatikan anak tangga paling bawah.
+Ketika v sama dengan nol, energinya bukan nol, melainkan setengah h nu.
+Inilah energi titik nol.
+Artinya, bahkan pada suhu nol mutlak, molekul tetap bergetar.
+Mengapa? Karena prinsip ketidakpastian Heisenberg.
+Jika atom diam tepat di dasar mangkuk, posisi dan momentumnya akan diketahui sekaligus dengan pasti,
+dan alam tidak mengizinkan hal itu.
+Getaran kecil yang tak bisa dihentikan ini adalah tanda tangan dunia kuantum.
+
+[08:36] Bab 08 — Bertemu cahaya inframerah
+
+Bagaimana kita bisa mengamati anak tangga yang begitu kecil?
+Jawabannya: dengan cahaya inframerah.
+Setiap foton membawa energi sebesar h dikali frekuensinya.
+Jika energi foton tepat sama dengan jarak antaranak tangga, molekul menyerapnya dan naik satu tingkat.
+Foton yang energinya tidak cocok akan lewat begitu saja.
+Pada model harmonik, lompatan yang diizinkan hanya satu anak tangga: delta v sama dengan plus atau minus satu.
+Tetapi energi yang cocok belum cukup.
+Ada syarat kedua: momen dipol molekul harus berubah selama bergetar.
+Hidrogen klorida memiliki muatan yang tidak merata, sehingga getarannya mengguncang medan listrik dan dapat menangkap inframerah.
+Sebaliknya, nitrogen dan oksigen, penyusun utama udara, tetap simetris saat bergetar.
+Getaran regangan mereka tidak menyerap inframerah.
+
+[09:51] Bab 09 — Pegas yang tidak sempurna
+
+Aturan delta v sama dengan plus atau minus satu berlaku sempurna hanya untuk osilator harmonik.
+Karena molekul nyata mengikuti potensial Morse, anak tangga energinya makin rapat di tingkat yang lebih tinggi.
+Akibatnya, lompatan dua atau tiga anak tangga sekaligus tetap bisa terjadi, meskipun sangat lemah.
+Pita lemah ini disebut overtone, dan muncul sedikit di bawah kelipatan frekuensi dasarnya.
+Lalu, mengapa hampir semua serapan berangkat dari tingkat nol?
+Menurut distribusi Boltzmann, pada suhu kamar hampir seluruh molekul berada di anak tangga paling bawah, karena jarak antartingkat vibrasi jauh lebih besar daripada energi termal.
+Itulah sebabnya pita fundamental, dari nol ke satu, adalah pita yang paling kuat dalam spektrum.
+
+[10:58] Bab 10 — Banyak atom, banyak irama
+
+Molekul dengan tiga atom atau lebih bisa bergetar dengan beberapa cara sekaligus.
+Pola-pola dasarnya disebut mode normal.
+Molekul linear dengan N atom memiliki tiga N dikurangi lima mode, dan molekul tak linear memiliki tiga N dikurangi enam.
+Karbon dioksida punya tiga atom dan bentuknya linear, jadi ada empat mode.
+Pertama, regangan simetris: kedua oksigen menjauh dan mendekat bersamaan.
+Dipolnya saling meniadakan, sehingga mode ini tidak aktif inframerah.
+Kedua, regangan asimetris: satu ikatan memanjang ketika yang lain memendek.
+Dipolnya berubah, sehingga mode ini menyerap kuat di sekitar dua ribu tiga ratus empat puluh sembilan sentimeter pangkat minus satu.
+Ketiga dan keempat, dua gerak tekuk dengan energi yang sama, di sekitar enam ratus enam puluh tujuh.
+Inilah sebabnya karbon dioksida menyerap panas yang dipancarkan Bumi, sementara nitrogen dan oksigen tidak.
+
+[12:22] Bab 11 — Di dalam alat FTIR
+
+Prinsip ini dimanfaatkan dalam alat bernama FTIR, spektroskopi inframerah transformasi Fourier.
+Cahaya inframerah dari sumber masuk ke sebuah interferometer.
+Di dalamnya, pemecah berkas membagi cahaya menjadi dua.
+Satu berkas memantul pada cermin diam, yang lain pada cermin yang bergerak.
+Ketika keduanya bergabung kembali, mereka saling menguatkan atau melemahkan, bergantung pada selisih lintasannya.
+Cahaya ini lalu melewati sampel, dan sampel menyerap frekuensi yang cocok dengan getaran molekulnya.
+Detektor merekam sinyal yang disebut interferogram.
+Kemudian komputer menjalankan transformasi Fourier,
+mengurai sinyal campuran itu menjadi spektrum: seberapa banyak cahaya diserap pada setiap bilangan gelombang.
+
+[13:27] Bab 12 — Membaca spektrum
+
+Spektrum inframerah biasanya dibaca dari empat ribu hingga empat ratus sentimeter pangkat minus satu.
+Bilangan gelombang sebanding dengan energi; semakin ke kiri, getarannya semakin cepat.
+Di sekitar tiga ribu, kita menemukan regangan ikatan dengan hidrogen, seperti C-H dan O-H.
+Di sekitar seribu tujuh ratus, muncul regangan karbonil, C rangkap dua O, salah satu pita yang paling mudah dikenali.
+Dan di bawah seribu lima ratus terbentang wilayah sidik jari,
+tempat gerak tekuk dan getaran kerangka molekul bertumpuk menjadi pola yang khas untuk setiap senyawa.
+
+[14:18] Bab 13 — PE lawan PET
+
+Sekarang, kembali ke dua plastik kita.
+Polietilena, atau PE, hanyalah rantai panjang karbon dan hidrogen.
+Spektrumnya sederhana: regangan C-H yang kuat di dekat dua ribu sembilan ratus,
+tekukan C-H dua di dekat seribu empat ratus tujuh puluh, dan goyangan C-H dua di dekat tujuh ratus dua puluh.
+Polietilena tereftalat, atau PET, mengandung gugus ester dan cincin aromatik.
+Gugus ester memberinya pita karbonil yang tajam dan kuat di sekitar seribu tujuh ratus lima belas,
+ditambah pita C-O yang kuat di sekitar seribu dua ratus empat puluh dan seribu sembilan puluh lima.
+Pita karbonil itu tidak dimiliki PE murni.
+Jadi, dengan satu kali pengukuran, dua plastik yang tampak kembar ternyata punya sidik jari yang sangat berbeda.
+
+[15:26] Bab 14 — FTIR di laboratorium mutu
+
+Di laboratorium pengendalian mutu, FTIR digunakan setiap hari.
+Untuk memeriksa identitas bahan baku polimer yang datang dari pemasok,
+melacak kontaminan,
+hingga memantau degradasi, misalnya oksidasi yang memunculkan pita karbonil baru pada plastik yang menua.
+Dengan teknik ATR, sampel cukup ditekan pada sebuah kristal, dan spektrum diperoleh dalam hitungan menit.
+Meski begitu, spektrum tetap harus ditafsirkan dengan hati-hati.
+Aditif, campuran, dan kondisi sampel dapat menggeser atau menyembunyikan pita,
+sehingga hasilnya selalu dibandingkan dengan pustaka rujukan dan, bila perlu, metode lain.
+
+[16:23] Bab 15 — Dari sensor gas hingga farmasi
+
+Penerapan getaran molekul di industri tidak berhenti di laboratorium plastik.
+Sensor gas inframerah, atau NDIR, memanfaatkan pita serapan karbon dioksida di sekitar dua ribu tiga ratus lima puluh sentimeter pangkat minus satu.
+Semakin banyak karbon dioksida di dalam ruang ukur, semakin sedikit cahaya yang sampai ke detektor.
+Prinsip ini dipakai untuk memantau emisi cerobong pabrik, kualitas udara gedung, hingga proses fermentasi.
+Di industri farmasi, spektroskopi inframerah dipakai untuk memastikan identitas bahan baku obat dan membedakan bentuk kristal atau polimorf.
+Sementara di industri pangan dan pertanian, spektroskopi inframerah dekat membaca pita overtone untuk mengukur kadar air, protein, dan lemak secara cepat tanpa merusak sampel.
+Satu prinsip kuantum yang sama, dipakai di berbagai sektor industri.
+
+[17:35] Bab 16 — Merangkai semuanya
+
+Mari kita rangkai seluruh perjalanannya.
+Atom-atom dalam molekul terikat seperti pegas dan terus bergetar.
+Frekuensinya ditentukan oleh kekakuan ikatan dan massa atomnya.
+Mekanika kuantum membatasi energinya pada anak tangga yang diskret, bahkan menyisakan energi titik nol.
+Cahaya inframerah diserap hanya jika energinya cocok dan dipolnya berubah.
+Dan FTIR menerjemahkan semua itu menjadi spektrum, sidik jari kimia setiap bahan.
+Jadi, lain kali kamu memegang sebuah botol plastik,
+ingatlah bahwa di dalamnya, tak terhitung banyaknya ikatan sedang bergetar, masing-masing dengan nadanya sendiri.
+Dan dengan cahaya yang tepat, kita bisa mendengarkan lagunya.

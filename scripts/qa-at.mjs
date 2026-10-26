@@ -1,0 +1,11 @@
+import {bundle} from '@remotion/bundler';
+import {openBrowser, renderStill, selectComposition} from '@remotion/renderer';
+import path from 'node:path';
+const [out, ...secs] = process.argv.slice(2);
+const browserExecutable = process.env.CHROME_PATH;
+const serveUrl = await bundle({entryPoint: path.resolve('src/index.ts')});
+const pi = await openBrowser('chrome', {browserExecutable});
+const inputProps = {showCaptions: true, musicVolume: 0, voiceover: false};
+const comp = await selectComposition({serveUrl, id: 'SidikJariMolekul', inputProps, browserExecutable, puppeteerInstance: pi});
+for (const s of secs) await renderStill({serveUrl, composition: comp, frame: Math.round(Number(s) * 30), output: `${out}/t${s}.jpg`, inputProps, browserExecutable, puppeteerInstance: pi, imageFormat: 'jpeg', scale: Number(process.env.SCALE ?? 0.5)});
+await pi.close({silent: true});

@@ -1,0 +1,619 @@
+1
+00:00:01,600 --> 00:00:05,140
+Coba perhatikan dua lembar plastik ini.
+
+2
+00:00:05,140 --> 00:00:11,140
+Sama-sama tipis, sama-sama ringan, sama-sama bening.
+
+3
+00:00:11,140 --> 00:00:18,460
+Tetapi yang satu adalah polietilena, dan yang lain adalah PET.
+
+4
+00:00:18,460 --> 00:00:22,500
+Mata kita tidak bisa membedakannya.
+
+5
+00:00:22,500 --> 00:00:27,940
+Namun ada satu cara yang hampir tidak pernah keliru:
+
+6
+00:00:27,940 --> 00:00:32,420
+mendengarkan bagaimana molekulnya bergetar.
+
+7
+00:00:32,420 --> 00:00:36,160
+Karena setiap molekul punya irama sendiri,
+
+8
+00:00:36,160 --> 00:00:41,480
+semacam sidik jari yang ditulis oleh hukum mekanika kuantum.
+
+9
+00:00:50,467 --> 00:00:56,187
+Video ini membahas kimia kuantum gerak vibrasi dalam tiga bagian.
+
+10
+00:00:56,187 --> 00:01:03,487
+Pertama, prinsip dan teori dasarnya: dari model pegas hingga persamaan Schrödinger.
+
+11
+00:01:03,487 --> 00:01:12,787
+Kedua, implementasinya dalam bidang kimia: bagaimana getaran molekul dibaca melalui spektroskopi inframerah.
+
+12
+00:01:12,787 --> 00:01:17,627
+Dan ketiga, penerapannya dalam dunia industri.
+
+13
+00:01:20,433 --> 00:01:24,033
+Mari kita perbesar plastik itu.
+
+14
+00:01:24,033 --> 00:01:31,733
+Semakin dalam, kita melihat rantai-rantai panjang polimer yang saling melilit.
+
+15
+00:01:31,733 --> 00:01:40,733
+Lebih dalam lagi, setiap rantai tersusun dari atom karbon dan hidrogen yang saling terikat.
+
+16
+00:01:40,733 --> 00:01:43,773
+Dan di sinilah kejutan pertama:
+
+17
+00:01:43,773 --> 00:01:48,933
+atom-atom ini tidak pernah benar-benar diam.
+
+18
+00:01:48,933 --> 00:01:56,513
+Ikatan di antara mereka terus memanjang dan memendek, menekuk dan meregang,
+
+19
+00:01:56,513 --> 00:02:01,913
+seperti orkestra kecil yang tidak pernah berhenti bermain.
+
+20
+00:02:04,700 --> 00:02:12,860
+Untuk memahami getaran ini, kita mulai dari yang paling sederhana: molekul dengan dua atom.
+
+21
+00:02:12,860 --> 00:02:20,960
+Kedua atom berada pada jarak yang paling nyaman, yang disebut panjang ikatan setimbang.
+
+22
+00:02:20,960 --> 00:02:25,880
+Jika ditarik sedikit, ikatan menarik keduanya kembali.
+
+23
+00:02:25,880 --> 00:02:31,800
+Jika didorong terlalu dekat, ikatan mendorongnya menjauh.
+
+24
+00:02:31,800 --> 00:02:36,000
+Perilaku ini mirip sekali dengan pegas.
+
+25
+00:02:36,000 --> 00:02:41,620
+Semakin jauh simpangannya, semakin besar gaya pemulihnya.
+
+26
+00:02:41,620 --> 00:02:48,340
+Inilah hukum Hooke: F sama dengan minus k kali x.
+
+27
+00:02:48,340 --> 00:02:52,660
+Tentu, ikatan kimia bukan pegas sungguhan.
+
+28
+00:02:52,660 --> 00:02:58,680
+Ia adalah awan elektron yang dibagi bersama oleh dua inti atom.
+
+29
+00:02:58,680 --> 00:03:04,400
+Tetapi sebagai model awal, analogi pegas ini sangat berguna.
+
+30
+00:03:06,800 --> 00:03:12,040
+Sekarang pertanyaannya: seberapa cepat pegas ini bergetar?
+
+31
+00:03:12,040 --> 00:03:15,520
+Jawabannya bergantung pada dua hal.
+
+32
+00:03:15,520 --> 00:03:21,540
+Yang pertama adalah kekakuan ikatan, dilambangkan dengan k.
+
+33
+00:03:21,540 --> 00:03:32,520
+Ikatan rangkap tiga lebih kaku daripada ikatan rangkap dua, dan ikatan rangkap dua lebih kaku daripada ikatan tunggal.
+
+34
+00:03:32,520 --> 00:03:36,960
+Ikatan yang lebih kaku bergetar lebih cepat.
+
+35
+00:03:36,960 --> 00:03:40,000
+Yang kedua adalah massa.
+
+36
+00:03:40,000 --> 00:03:46,680
+Atom yang berat bergerak lebih lamban, seperti beban besar di ujung pegas.
+
+37
+00:03:46,680 --> 00:03:56,720
+Untuk dua atom, kita memakai massa tereduksi, mu: hasil kali kedua massa dibagi jumlahnya.
+
+38
+00:03:56,720 --> 00:04:05,520
+Hasilnya adalah satu rumus sederhana: frekuensi sebanding dengan akar dari k dibagi mu.
+
+39
+00:04:05,620 --> 00:04:09,540
+Buktinya bisa kita lihat pada hidrogen klorida.
+
+40
+00:04:09,540 --> 00:04:15,440
+Jika hidrogen diganti deuterium, isotop yang dua kali lebih berat,
+
+41
+00:04:15,440 --> 00:04:25,720
+jenis ikatannya tetap sama, tetapi getarannya melambat, kira-kira menjadi tujuh puluh persen frekuensi semula.
+
+42
+00:04:25,720 --> 00:04:28,760
+Rumus yang sama juga bisa dibalik.
+
+43
+00:04:28,760 --> 00:04:45,620
+Dari pita hidrogen klorida di dua ribu delapan ratus delapan puluh enam sentimeter pangkat minus satu, kita dapat menghitung konstanta gaya ikatannya: kira-kira empat ratus delapan puluh newton per meter.
+
+44
+00:04:45,620 --> 00:04:54,460
+Inilah salah satu kekuatan spektroskopi vibrasi: ia mengukur seberapa kuat sebuah ikatan kimia.
+
+45
+00:04:57,067 --> 00:05:02,307
+Mari kita gambarkan getaran ini sebagai sebuah lanskap energi.
+
+46
+00:05:02,307 --> 00:05:10,127
+Sumbu mendatar adalah jarak antaratom, dan sumbu tegak adalah energi potensial.
+
+47
+00:05:10,127 --> 00:05:20,247
+Di dekat titik setimbang, bentuknya seperti mangkuk parabola: energi sama dengan setengah k x kuadrat.
+
+48
+00:05:20,247 --> 00:05:24,847
+Model ini disebut osilator harmonik.
+
+49
+00:05:24,847 --> 00:05:28,387
+Tetapi molekul nyata sedikit berbeda.
+
+50
+00:05:28,387 --> 00:05:34,007
+Jika atom didorong terlalu dekat, energinya melonjak tajam.
+
+51
+00:05:34,007 --> 00:05:41,487
+Jika ditarik terlalu jauh, kurvanya melandai, sampai akhirnya ikatan putus.
+
+52
+00:05:41,487 --> 00:05:46,907
+Kurva yang lebih realistis ini disebut potensial Morse.
+
+53
+00:05:46,907 --> 00:05:54,707
+Namun untuk getaran kecil di dasar mangkuk, model harmonik tetap pendekatan yang sangat baik.
+
+54
+00:05:57,100 --> 00:06:02,540
+Di sinilah fisika klasik dan fisika kuantum berpisah jalan.
+
+55
+00:06:02,540 --> 00:06:08,600
+Menurut fisika klasik, getaran boleh memiliki energi berapa pun,
+
+56
+00:06:08,600 --> 00:06:13,400
+seperti bola yang meluncur di tanjakan yang mulus.
+
+57
+00:06:13,400 --> 00:06:20,240
+Tetapi ketika persamaan Schrödinger diterapkan pada molekul, hasilnya mengejutkan.
+
+58
+00:06:20,240 --> 00:06:27,760
+Energi getaran hanya boleh berada pada tingkat-tingkat tertentu, seperti anak tangga.
+
+59
+00:06:27,760 --> 00:06:37,080
+Setiap anak tangga diberi nomor kuantum v: nol, satu, dua, tiga, dan seterusnya.
+
+60
+00:06:37,080 --> 00:06:45,680
+Pada osilator harmonik, jarak antaranak tangga selalu sama, yaitu h dikali nu.
+
+61
+00:06:45,680 --> 00:06:54,000
+Energinya ditulis sebagai E sama dengan v ditambah setengah, dikali h nu.
+
+62
+00:06:54,000 --> 00:06:57,960
+Inilah yang disebut kuantisasi energi.
+
+63
+00:07:00,567 --> 00:07:04,607
+Lalu, di mana posisi atom pada setiap tingkat?
+
+64
+00:07:04,607 --> 00:07:08,867
+Mekanika kuantum tidak memberi lintasan yang pasti.
+
+65
+00:07:08,867 --> 00:07:12,307
+Ia memberi fungsi gelombang, psi.
+
+66
+00:07:12,307 --> 00:07:18,547
+Kuadratnya menunjukkan peluang menemukan atom pada simpangan tertentu.
+
+67
+00:07:18,547 --> 00:07:23,147
+Pada tingkat nol, peluang terbesar ada di tengah.
+
+68
+00:07:23,147 --> 00:07:30,707
+Pada tingkat yang lebih tinggi, muncul simpul, titik-titik tempat peluangnya nol.
+
+69
+00:07:30,707 --> 00:07:38,467
+Semakin tinggi tingkatnya, semakin banyak simpulnya, dan sebarannya semakin lebar.
+
+70
+00:07:38,467 --> 00:07:42,607
+Jadi molekul tidak sekadar berayun di satu lintasan;
+
+71
+00:07:42,607 --> 00:07:46,247
+ia hadir sebagai awan kemungkinan.
+
+72
+00:07:48,833 --> 00:07:52,873
+Sekarang perhatikan anak tangga paling bawah.
+
+73
+00:07:52,873 --> 00:08:00,453
+Ketika v sama dengan nol, energinya bukan nol, melainkan setengah h nu.
+
+74
+00:08:00,453 --> 00:08:03,573
+Inilah energi titik nol.
+
+75
+00:08:03,573 --> 00:08:11,093
+Artinya, bahkan pada suhu nol mutlak, molekul tetap bergetar.
+
+76
+00:08:11,093 --> 00:08:15,613
+Mengapa? Karena prinsip ketidakpastian Heisenberg.
+
+77
+00:08:15,613 --> 00:08:24,313
+Jika atom diam tepat di dasar mangkuk, posisi dan momentumnya akan diketahui sekaligus dengan pasti,
+
+78
+00:08:24,313 --> 00:08:28,173
+dan alam tidak mengizinkan hal itu.
+
+79
+00:08:28,173 --> 00:08:34,933
+Getaran kecil yang tak bisa dihentikan ini adalah tanda tangan dunia kuantum.
+
+80
+00:08:37,533 --> 00:08:41,713
+Bagaimana kita bisa mengamati anak tangga yang begitu kecil?
+
+81
+00:08:41,713 --> 00:08:45,933
+Jawabannya: dengan cahaya inframerah.
+
+82
+00:08:45,933 --> 00:08:52,113
+Setiap foton membawa energi sebesar h dikali frekuensinya.
+
+83
+00:08:52,113 --> 00:09:01,353
+Jika energi foton tepat sama dengan jarak antaranak tangga, molekul menyerapnya dan naik satu tingkat.
+
+84
+00:09:01,353 --> 00:09:06,433
+Foton yang energinya tidak cocok akan lewat begitu saja.
+
+85
+00:09:06,433 --> 00:09:16,593
+Pada model harmonik, lompatan yang diizinkan hanya satu anak tangga: delta v sama dengan plus atau minus satu.
+
+86
+00:09:16,593 --> 00:09:20,193
+Tetapi energi yang cocok belum cukup.
+
+87
+00:09:20,193 --> 00:09:27,113
+Ada syarat kedua: momen dipol molekul harus berubah selama bergetar.
+
+88
+00:09:27,113 --> 00:09:37,313
+Hidrogen klorida memiliki muatan yang tidak merata, sehingga getarannya mengguncang medan listrik dan dapat menangkap inframerah.
+
+89
+00:09:37,313 --> 00:09:45,213
+Sebaliknya, nitrogen dan oksigen, penyusun utama udara, tetap simetris saat bergetar.
+
+90
+00:09:45,213 --> 00:09:50,053
+Getaran regangan mereka tidak menyerap inframerah.
+
+91
+00:09:52,667 --> 00:10:00,767
+Aturan delta v sama dengan plus atau minus satu berlaku sempurna hanya untuk osilator harmonik.
+
+92
+00:10:00,767 --> 00:10:10,087
+Karena molekul nyata mengikuti potensial Morse, anak tangga energinya makin rapat di tingkat yang lebih tinggi.
+
+93
+00:10:10,087 --> 00:10:19,767
+Akibatnya, lompatan dua atau tiga anak tangga sekaligus tetap bisa terjadi, meskipun sangat lemah.
+
+94
+00:10:19,767 --> 00:10:28,087
+Pita lemah ini disebut overtone, dan muncul sedikit di bawah kelipatan frekuensi dasarnya.
+
+95
+00:10:28,087 --> 00:10:33,067
+Lalu, mengapa hampir semua serapan berangkat dari tingkat nol?
+
+96
+00:10:33,067 --> 00:10:47,827
+Menurut distribusi Boltzmann, pada suhu kamar hampir seluruh molekul berada di anak tangga paling bawah, karena jarak antartingkat vibrasi jauh lebih besar daripada energi termal.
+
+97
+00:10:47,827 --> 00:10:56,747
+Itulah sebabnya pita fundamental, dari nol ke satu, adalah pita yang paling kuat dalam spektrum.
+
+98
+00:10:59,333 --> 00:11:05,493
+Molekul dengan tiga atom atau lebih bisa bergetar dengan beberapa cara sekaligus.
+
+99
+00:11:05,493 --> 00:11:09,773
+Pola-pola dasarnya disebut mode normal.
+
+100
+00:11:09,773 --> 00:11:21,653
+Molekul linear dengan N atom memiliki tiga N dikurangi lima mode, dan molekul tak linear memiliki tiga N dikurangi enam.
+
+101
+00:11:21,653 --> 00:11:29,253
+Karbon dioksida punya tiga atom dan bentuknya linear, jadi ada empat mode.
+
+102
+00:11:29,253 --> 00:11:36,453
+Pertama, regangan simetris: kedua oksigen menjauh dan mendekat bersamaan.
+
+103
+00:11:36,453 --> 00:11:43,013
+Dipolnya saling meniadakan, sehingga mode ini tidak aktif inframerah.
+
+104
+00:11:43,013 --> 00:11:50,533
+Kedua, regangan asimetris: satu ikatan memanjang ketika yang lain memendek.
+
+105
+00:11:50,533 --> 00:12:02,533
+Dipolnya berubah, sehingga mode ini menyerap kuat di sekitar dua ribu tiga ratus empat puluh sembilan sentimeter pangkat minus satu.
+
+106
+00:12:02,533 --> 00:12:11,733
+Ketiga dan keempat, dua gerak tekuk dengan energi yang sama, di sekitar enam ratus enam puluh tujuh.
+
+107
+00:12:11,733 --> 00:12:20,813
+Inilah sebabnya karbon dioksida menyerap panas yang dipancarkan Bumi, sementara nitrogen dan oksigen tidak.
+
+108
+00:12:23,400 --> 00:12:32,740
+Prinsip ini dimanfaatkan dalam alat bernama FTIR, spektroskopi inframerah transformasi Fourier.
+
+109
+00:12:32,740 --> 00:12:38,340
+Cahaya inframerah dari sumber masuk ke sebuah interferometer.
+
+110
+00:12:38,340 --> 00:12:43,460
+Di dalamnya, pemecah berkas membagi cahaya menjadi dua.
+
+111
+00:12:43,460 --> 00:12:50,600
+Satu berkas memantul pada cermin diam, yang lain pada cermin yang bergerak.
+
+112
+00:12:50,600 --> 00:13:00,240
+Ketika keduanya bergabung kembali, mereka saling menguatkan atau melemahkan, bergantung pada selisih lintasannya.
+
+113
+00:13:00,240 --> 00:13:08,680
+Cahaya ini lalu melewati sampel, dan sampel menyerap frekuensi yang cocok dengan getaran molekulnya.
+
+114
+00:13:08,680 --> 00:13:13,440
+Detektor merekam sinyal yang disebut interferogram.
+
+115
+00:13:13,440 --> 00:13:17,500
+Kemudian komputer menjalankan transformasi Fourier,
+
+116
+00:13:17,500 --> 00:13:26,100
+mengurai sinyal campuran itu menjadi spektrum: seberapa banyak cahaya diserap pada setiap bilangan gelombang.
+
+117
+00:13:28,700 --> 00:13:36,720
+Spektrum inframerah biasanya dibaca dari empat ribu hingga empat ratus sentimeter pangkat minus satu.
+
+118
+00:13:36,720 --> 00:13:44,140
+Bilangan gelombang sebanding dengan energi; semakin ke kiri, getarannya semakin cepat.
+
+119
+00:13:44,140 --> 00:13:52,660
+Di sekitar tiga ribu, kita menemukan regangan ikatan dengan hidrogen, seperti C-H dan O-H.
+
+120
+00:13:52,660 --> 00:14:03,260
+Di sekitar seribu tujuh ratus, muncul regangan karbonil, C rangkap dua O, salah satu pita yang paling mudah dikenali.
+
+121
+00:14:03,260 --> 00:14:08,520
+Dan di bawah seribu lima ratus terbentang wilayah sidik jari,
+
+122
+00:14:08,520 --> 00:14:16,960
+tempat gerak tekuk dan getaran kerangka molekul bertumpuk menjadi pola yang khas untuk setiap senyawa.
+
+123
+00:14:19,567 --> 00:14:23,047
+Sekarang, kembali ke dua plastik kita.
+
+124
+00:14:23,047 --> 00:14:30,247
+Polietilena, atau PE, hanyalah rantai panjang karbon dan hidrogen.
+
+125
+00:14:30,247 --> 00:14:36,687
+Spektrumnya sederhana: regangan C-H yang kuat di dekat dua ribu sembilan ratus,
+
+126
+00:14:36,687 --> 00:14:46,207
+tekukan C-H dua di dekat seribu empat ratus tujuh puluh, dan goyangan C-H dua di dekat tujuh ratus dua puluh.
+
+127
+00:14:46,207 --> 00:14:54,947
+Polietilena tereftalat, atau PET, mengandung gugus ester dan cincin aromatik.
+
+128
+00:14:54,947 --> 00:15:02,687
+Gugus ester memberinya pita karbonil yang tajam dan kuat di sekitar seribu tujuh ratus lima belas,
+
+129
+00:15:02,687 --> 00:15:11,207
+ditambah pita C-O yang kuat di sekitar seribu dua ratus empat puluh dan seribu sembilan puluh lima.
+
+130
+00:15:11,207 --> 00:15:15,687
+Pita karbonil itu tidak dimiliki PE murni.
+
+131
+00:15:15,687 --> 00:15:25,167
+Jadi, dengan satu kali pengukuran, dua plastik yang tampak kembar ternyata punya sidik jari yang sangat berbeda.
+
+132
+00:15:27,967 --> 00:15:33,907
+Di laboratorium pengendalian mutu, FTIR digunakan setiap hari.
+
+133
+00:15:33,907 --> 00:15:39,467
+Untuk memeriksa identitas bahan baku polimer yang datang dari pemasok,
+
+134
+00:15:39,467 --> 00:15:41,507
+melacak kontaminan,
+
+135
+00:15:41,507 --> 00:15:50,527
+hingga memantau degradasi, misalnya oksidasi yang memunculkan pita karbonil baru pada plastik yang menua.
+
+136
+00:15:50,527 --> 00:16:00,027
+Dengan teknik ATR, sampel cukup ditekan pada sebuah kristal, dan spektrum diperoleh dalam hitungan menit.
+
+137
+00:16:00,027 --> 00:16:06,027
+Meski begitu, spektrum tetap harus ditafsirkan dengan hati-hati.
+
+138
+00:16:06,027 --> 00:16:13,747
+Aditif, campuran, dan kondisi sampel dapat menggeser atau menyembunyikan pita,
+
+139
+00:16:13,747 --> 00:16:22,107
+sehingga hasilnya selalu dibandingkan dengan pustaka rujukan dan, bila perlu, metode lain.
+
+140
+00:16:24,700 --> 00:16:30,400
+Penerapan getaran molekul di industri tidak berhenti di laboratorium plastik.
+
+141
+00:16:30,400 --> 00:16:44,000
+Sensor gas inframerah, atau NDIR, memanfaatkan pita serapan karbon dioksida di sekitar dua ribu tiga ratus lima puluh sentimeter pangkat minus satu.
+
+142
+00:16:44,000 --> 00:16:52,260
+Semakin banyak karbon dioksida di dalam ruang ukur, semakin sedikit cahaya yang sampai ke detektor.
+
+143
+00:16:52,260 --> 00:17:01,700
+Prinsip ini dipakai untuk memantau emisi cerobong pabrik, kualitas udara gedung, hingga proses fermentasi.
+
+144
+00:17:01,700 --> 00:17:13,940
+Di industri farmasi, spektroskopi inframerah dipakai untuk memastikan identitas bahan baku obat dan membedakan bentuk kristal atau polimorf.
+
+145
+00:17:13,940 --> 00:17:28,420
+Sementara di industri pangan dan pertanian, spektroskopi inframerah dekat membaca pita overtone untuk mengukur kadar air, protein, dan lemak secara cepat tanpa merusak sampel.
+
+146
+00:17:28,420 --> 00:17:34,300
+Satu prinsip kuantum yang sama, dipakai di berbagai sektor industri.
+
+147
+00:17:36,900 --> 00:17:40,460
+Mari kita rangkai seluruh perjalanannya.
+
+148
+00:17:40,460 --> 00:17:47,180
+Atom-atom dalam molekul terikat seperti pegas dan terus bergetar.
+
+149
+00:17:47,180 --> 00:17:52,860
+Frekuensinya ditentukan oleh kekakuan ikatan dan massa atomnya.
+
+150
+00:17:52,860 --> 00:18:01,900
+Mekanika kuantum membatasi energinya pada anak tangga yang diskret, bahkan menyisakan energi titik nol.
+
+151
+00:18:01,900 --> 00:18:08,940
+Cahaya inframerah diserap hanya jika energinya cocok dan dipolnya berubah.
+
+152
+00:18:08,940 --> 00:18:17,740
+Dan FTIR menerjemahkan semua itu menjadi spektrum, sidik jari kimia setiap bahan.
+
+153
+00:18:17,740 --> 00:18:22,360
+Jadi, lain kali kamu memegang sebuah botol plastik,
+
+154
+00:18:22,360 --> 00:18:33,160
+ingatlah bahwa di dalamnya, tak terhitung banyaknya ikatan sedang bergetar, masing-masing dengan nadanya sendiri.
+
+155
+00:18:33,160 --> 00:18:38,720
+Dan dengan cahaya yang tepat, kita bisa mendengarkan lagunya.
