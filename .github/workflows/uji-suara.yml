@@ -1,0 +1,38 @@
+name: Uji model suara (bandingkan, tidak menimpa)
+on:
+  workflow_dispatch:
+    inputs:
+      voice_id:
+        description: 'Voice ID ElevenLabs (suara klon)'
+        required: true
+      model:
+        description: 'Model yang diuji'
+        type: choice
+        options: ['eleven_v4_turbo', 'eleven_v4', 'eleven_multilingual_v2']
+        default: 'eleven_v4_turbo'
+      baris:
+        description: 'Kode baris dipisah koma (±300 karakter = ±300 kredit atau kurang)'
+        default: 'hook-02,spring-06,frequency-08,landscape-02'
+jobs:
+  uji:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Buat suara uji
+        run: node --experimental-strip-types scripts/uji-suara.ts
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ELEVENLABS_VOICE_ID: ${{ inputs.voice_id }}
+          ELEVENLABS_MODEL: ${{ inputs.model }}
+          UJI_BARIS: ${{ inputs.baris }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: uji-suara-${{ inputs.model }}
+          path: out/uji/*.mp3
+          retention-days: 7
