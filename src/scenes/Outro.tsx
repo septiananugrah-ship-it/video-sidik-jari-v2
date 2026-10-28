@@ -18,7 +18,8 @@ export const Outro: React.FC = () => {
   const {t, dur} = useScene();
   const a = ramp(t, 0, 1.6);
   const fp = ramp(t, 0, 5, EASE_IN_OUT);
-  const refs = ramp(t, 2.4, 3.4);
+  const author = ramp(t, 1.8, 2.8);
+  const refs = ramp(t, 2.8, 3.8);
   const out = 1 - ramp(t, dur - 1.6, dur - 0.1, EASE_IN_OUT);
   return (
     <AbsoluteFill style={{opacity: out}}>
@@ -32,7 +33,13 @@ export const Outro: React.FC = () => {
           MOLEKUL
         </div>
         <div style={{marginTop: 22, fontFamily: FONT.sans, fontSize: 34, color: C.ink, opacity: ramp(t, 1.2, 2.2)}}>Terima kasih telah menonton</div>
-        <div style={{marginTop: 70, textAlign: 'center', opacity: refs}}>
+        <div style={{marginTop: 40, textAlign: 'center', opacity: author, translate: `0px ${(1 - author) * 12}px`}}>
+          <div style={{fontFamily: FONT.mono, fontSize: 18, letterSpacing: 6, color: C.cyan}}>DISUSUN OLEH</div>
+          <div style={{marginTop: 6, fontFamily: FONT.sans, fontSize: 44, fontWeight: 600, color: C.ink, textShadow: '0 0 30px rgba(79,214,255,0.25)'}}>
+            Septian Anugrah Dwi Putra
+          </div>
+        </div>
+        <div style={{marginTop: 44, textAlign: 'center', opacity: refs}}>
           <div style={{fontFamily: FONT.mono, fontSize: 18, letterSpacing: 4, color: C.muted, marginBottom: 14}}>RUJUKAN</div>
           {REFS.map((r) => (
             <div key={r} style={{fontFamily: FONT.sans, fontSize: 24, color: C.muted, lineHeight: 1.6}}>

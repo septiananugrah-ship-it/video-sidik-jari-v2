@@ -4,6 +4,7 @@
 - Gaya v2: **tetap gaya asli** (biru tua + emas–sian, atom bercahaya, kartu kaca biru) dengan palet lebih segar. Yayan menolak versi studio arang abu-abu (warna jadi luntur/layu) — jangan kembali ke sana. Arah pengembangan: animasi jauh lebih banyak & terus bergerak, ilustrasi vektor lebih kaya (lihat teknik di `src/uji/UjiGayaVektor.tsx`: penampang, kolom sinar, angka detektor, lengkung energi emas), tetapi warnanya segar.
 - **Claude tidak menjalankan workflow GitHub Actions.** Setelah perubahan masuk ke `main`, berhenti dan minta Yayan menekan *Run workflow* sendiri.
 - Voice-over: suara klon Yayan, disalin dari `Claude-Video-Kimia` terbaru (naskah identik). Kalau naskah diubah, baris itu harus dibuat ulang lewat workflow voice-over (Yayan yang menjalankan).
+- Outro menampilkan "Disusun oleh Septian Anugrah Dwi Putra" (diminta pengguna; aturan "tanpa nama" lama tidak berlaku lagi untuk video ini).
 
 ## Primitif efek (`src/components/primitives.tsx`)
 
