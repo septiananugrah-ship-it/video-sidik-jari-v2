@@ -9,14 +9,14 @@ mendengarkan bagaimana molekulnya bergetar.
 Karena setiap molekul punya irama sendiri,
 semacam sidik jari yang ditulis oleh hukum mekanika kuantum.
 
-[00:49] Peta video
+[00:43] Peta video
 
 Video ini membahas kimia kuantum gerak vibrasi dalam tiga bagian.
 Pertama, prinsip dan teori dasarnya: dari model pegas hingga persamaan Schrödinger.
 Kedua, implementasinya dalam bidang kimia: bagaimana getaran molekul dibaca melalui spektroskopi inframerah.
 Dan ketiga, penerapannya dalam dunia industri.
 
-[01:19] Bab 01 — Tidak ada yang benar-benar diam
+[01:09] Bab 01 — Tidak ada yang benar-benar diam
 
 Mari kita perbesar plastik itu.
 Semakin dalam, kita melihat rantai-rantai panjang polimer yang saling melilit.
@@ -26,7 +26,7 @@ atom-atom ini tidak pernah benar-benar diam.
 Ikatan di antara mereka terus memanjang dan memendek, menekuk dan meregang,
 seperti orkestra kecil yang tidak pernah berhenti bermain.
 
-[02:03] Bab 02 — Ikatan kimia sebagai pegas
+[01:46] Bab 02 — Ikatan kimia sebagai pegas
 
 Untuk memahami getaran ini, kita mulai dari yang paling sederhana: molekul dengan dua atom.
 Kedua atom berada pada jarak yang paling nyaman, yang disebut panjang ikatan setimbang.
@@ -39,7 +39,7 @@ Tentu, ikatan kimia bukan pegas sungguhan.
 Ia adalah awan elektron yang dibagi bersama oleh dua inti atom.
 Tetapi sebagai model awal, analogi pegas ini sangat berguna.
 
-[03:05] Bab 03 — Kekakuan dan massa
+[02:39] Bab 03 — Kekakuan dan massa
 
 Sekarang pertanyaannya: seberapa cepat pegas ini bergetar?
 Jawabannya bergantung pada dua hal.
@@ -57,7 +57,7 @@ Rumus yang sama juga bisa dibalik.
 Dari pita hidrogen klorida di dua ribu delapan ratus delapan puluh enam sentimeter pangkat minus satu, kita dapat menghitung konstanta gaya ikatannya: kira-kira empat ratus delapan puluh newton per meter.
 Inilah salah satu kekuatan spektroskopi vibrasi: ia mengukur seberapa kuat sebuah ikatan kimia.
 
-[04:56] Bab 04 — Lanskap energi
+[04:13] Bab 04 — Lanskap energi
 
 Mari kita gambarkan getaran ini sebagai sebuah lanskap energi.
 Sumbu mendatar adalah jarak antaratom, dan sumbu tegak adalah energi potensial.
@@ -69,7 +69,7 @@ Jika ditarik terlalu jauh, kurvanya melandai, sampai akhirnya ikatan putus.
 Kurva yang lebih realistis ini disebut potensial Morse.
 Namun untuk getaran kecil di dasar mangkuk, model harmonik tetap pendekatan yang sangat baik.
 
-[05:56] Bab 05 — Lompatan kuantum
+[05:05] Bab 05 — Lompatan kuantum
 
 Di sinilah fisika klasik dan fisika kuantum berpisah jalan.
 Menurut fisika klasik, getaran boleh memiliki energi berapa pun,
@@ -81,7 +81,7 @@ Pada osilator harmonik, jarak antaranak tangga selalu sama, yaitu h dikali nu.
 Energinya ditulis sebagai E sama dengan v ditambah setengah, dikali h nu.
 Inilah yang disebut kuantisasi energi.
 
-[06:59] Bab 06 — Awan kemungkinan
+[05:58] Bab 06 — Awan kemungkinan
 
 Lalu, di mana posisi atom pada setiap tingkat?
 Mekanika kuantum tidak memberi lintasan yang pasti.
@@ -93,7 +93,7 @@ Semakin tinggi tingkatnya, semakin banyak simpulnya, dan sebarannya semakin leba
 Jadi molekul tidak sekadar berayun di satu lintasan;
 ia hadir sebagai awan kemungkinan.
 
-[07:47] Bab 07 — Energi titik nol
+[06:41] Bab 07 — Energi titik nol
 
 Sekarang perhatikan anak tangga paling bawah.
 Ketika v sama dengan nol, energinya bukan nol, melainkan setengah h nu.
@@ -104,7 +104,7 @@ Jika atom diam tepat di dasar mangkuk, posisi dan momentumnya akan diketahui sek
 dan alam tidak mengizinkan hal itu.
 Getaran kecil yang tak bisa dihentikan ini adalah tanda tangan dunia kuantum.
 
-[08:36] Bab 08 — Bertemu cahaya inframerah
+[07:23] Bab 08 — Bertemu cahaya inframerah
 
 Bagaimana kita bisa mengamati anak tangga yang begitu kecil?
 Jawabannya: dengan cahaya inframerah.
@@ -118,7 +118,7 @@ Hidrogen klorida memiliki muatan yang tidak merata, sehingga getarannya menggunc
 Sebaliknya, nitrogen dan oksigen, penyusun utama udara, tetap simetris saat bergetar.
 Getaran regangan mereka tidak menyerap inframerah.
 
-[09:51] Bab 09 — Pegas yang tidak sempurna
+[08:28] Bab 09 — Pegas yang tidak sempurna
 
 Aturan delta v sama dengan plus atau minus satu berlaku sempurna hanya untuk osilator harmonik.
 Karena molekul nyata mengikuti potensial Morse, anak tangga energinya makin rapat di tingkat yang lebih tinggi.
@@ -128,7 +128,7 @@ Lalu, mengapa hampir semua serapan berangkat dari tingkat nol?
 Menurut distribusi Boltzmann, pada suhu kamar hampir seluruh molekul berada di anak tangga paling bawah, karena jarak antartingkat vibrasi jauh lebih besar daripada energi termal.
 Itulah sebabnya pita fundamental, dari nol ke satu, adalah pita yang paling kuat dalam spektrum.
 
-[10:58] Bab 10 — Banyak atom, banyak irama
+[09:25] Bab 10 — Banyak atom, banyak irama
 
 Molekul dengan tiga atom atau lebih bisa bergetar dengan beberapa cara sekaligus.
 Pola-pola dasarnya disebut mode normal.
@@ -141,7 +141,7 @@ Dipolnya berubah, sehingga mode ini menyerap kuat di sekitar dua ribu tiga ratus
 Ketiga dan keempat, dua gerak tekuk dengan energi yang sama, di sekitar enam ratus enam puluh tujuh.
 Inilah sebabnya karbon dioksida menyerap panas yang dipancarkan Bumi, sementara nitrogen dan oksigen tidak.
 
-[12:22] Bab 11 — Di dalam alat FTIR
+[10:36] Bab 11 — Di dalam alat FTIR
 
 Prinsip ini dimanfaatkan dalam alat bernama FTIR, spektroskopi inframerah transformasi Fourier.
 Cahaya inframerah dari sumber masuk ke sebuah interferometer.
@@ -153,7 +153,7 @@ Detektor merekam sinyal yang disebut interferogram.
 Kemudian komputer menjalankan transformasi Fourier,
 mengurai sinyal campuran itu menjadi spektrum: seberapa banyak cahaya diserap pada setiap bilangan gelombang.
 
-[13:27] Bab 12 — Membaca spektrum
+[11:33] Bab 12 — Membaca spektrum
 
 Spektrum inframerah biasanya dibaca dari empat ribu hingga empat ratus sentimeter pangkat minus satu.
 Bilangan gelombang sebanding dengan energi; semakin ke kiri, getarannya semakin cepat.
@@ -162,7 +162,7 @@ Di sekitar seribu tujuh ratus, muncul regangan karbonil, C rangkap dua O, salah 
 Dan di bawah seribu lima ratus terbentang wilayah sidik jari,
 tempat gerak tekuk dan getaran kerangka molekul bertumpuk menjadi pola yang khas untuk setiap senyawa.
 
-[14:18] Bab 13 — PE lawan PET
+[12:17] Bab 13 — PE lawan PET
 
 Sekarang, kembali ke dua plastik kita.
 Polietilena, atau PE, hanyalah rantai panjang karbon dan hidrogen.
@@ -174,7 +174,7 @@ ditambah pita C-O yang kuat di sekitar seribu dua ratus empat puluh dan seribu s
 Pita karbonil itu tidak dimiliki PE murni.
 Jadi, dengan satu kali pengukuran, dua plastik yang tampak kembar ternyata punya sidik jari yang sangat berbeda.
 
-[15:26] Bab 14 — FTIR di laboratorium mutu
+[13:16] Bab 14 — FTIR di laboratorium mutu
 
 Di laboratorium pengendalian mutu, FTIR digunakan setiap hari.
 Untuk memeriksa identitas bahan baku polimer yang datang dari pemasok,
@@ -185,7 +185,7 @@ Meski begitu, spektrum tetap harus ditafsirkan dengan hati-hati.
 Aditif, campuran, dan kondisi sampel dapat menggeser atau menyembunyikan pita,
 sehingga hasilnya selalu dibandingkan dengan pustaka rujukan dan, bila perlu, metode lain.
 
-[16:23] Bab 15 — Dari sensor gas hingga farmasi
+[14:05] Bab 15 — Dari sensor gas hingga farmasi
 
 Penerapan getaran molekul di industri tidak berhenti di laboratorium plastik.
 Sensor gas inframerah, atau NDIR, memanfaatkan pita serapan karbon dioksida di sekitar dua ribu tiga ratus lima puluh sentimeter pangkat minus satu.
@@ -195,7 +195,7 @@ Di industri farmasi, spektroskopi inframerah dipakai untuk memastikan identitas 
 Sementara di industri pangan dan pertanian, spektroskopi inframerah dekat membaca pita overtone untuk mengukur kadar air, protein, dan lemak secara cepat tanpa merusak sampel.
 Satu prinsip kuantum yang sama, dipakai di berbagai sektor industri.
 
-[17:35] Bab 16 — Merangkai semuanya
+[15:08] Bab 16 — Merangkai semuanya
 
 Mari kita rangkai seluruh perjalanannya.
 Atom-atom dalam molekul terikat seperti pegas dan terus bergetar.
